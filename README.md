@@ -34,7 +34,7 @@ Hai trovato un bug? Vuoi suggerire un software da aggiungere? O vuoi semplicemen
 Il cuore del sistema. Non serve cercare `.exe` su siti dubbi.
 * **Gestione Automatica:** Se `winget` non è presente (comune su Windows 10), GlassRefine lo scarica e lo installa silenziosamente dal server Microsoft.
 * **Software Completo:** Categorie organizzate (Gaming, Dev, Privacy, Multimedia) per configurare un PC nuovo in 3 minuti.
-* **Logica "Sempre Aggiornato":** Scarica sempre l'ultima versione disponibile dalle impostazioni di GlassRefine.
+* **Logica "Sempre Aggiornato":** Scarica sempre l'ultima versione di GlassRefine disponibile dalle impostazioni per ottenere nuove novità e patch di stabilità di GlassRefine. 
 
 ### 🛡️ Sicurezza & Trasparenza 
 Sappiamo che fidarsi di un `.exe` è difficile. Ecco perché abbiamo puntato tutto sulla trasparenza:
