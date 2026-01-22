@@ -1,6 +1,6 @@
 # GlassRefine-Updates
 
-# 🛡️ GlassRefine
+# 🪩🧊 GlassRefine
 ### Il Debloater Chirurgico per Windows 10 & 11
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6.svg) ![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-success)
