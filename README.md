@@ -67,10 +67,9 @@ Incoraggiamo tutti gli utenti avanzati a testare **GlassRefine** in una Virtual 
 ## 📥 Installazione e Utilizzo
 
 1.  Scarica l'ultima release dalla sezione **Releases**.
-2.  Assicurati di aver installato .NET 8.0
-3.  Il programma chiederà l'UAC (User Account Control) per avviarsi in Modalità Amministratore
+2.  Il programma chiederà l'UAC (User Account Control) per avviarsi in Modalità Amministratore
 * *Perché?* Per installare programmi (Winget) e modificare il registro di sistema, servono i permessi di Amministratore (Admin). Senza di essi, Windows bloccherà il corretto funzionamento dell'app.
-4.  Scegli le operazioni da eseguire e lascia lavorare Brown (l'Assistente virtuale).
+4.  Scegli le operazioni da eseguire e lascia lavorare Brown (Il tuo Assistente virtuale).
 
 ---
 
@@ -90,6 +89,8 @@ imchillato
 JacobXVII
 JatPanic
 GabriTech
+_-VoidRoot-_
+SloppyDante
 _-VoidRoot-_
 ---
 
