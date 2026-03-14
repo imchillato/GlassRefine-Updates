@@ -89,9 +89,7 @@ imchillato
 JacobXVII
 JatPanic
 GabriTech
-_-VoidRoot-_
+VoidRoot
 SloppyDante
-_-VoidRoot-_
----
 
 > **"Un PC pulito è un PC felice. Benvenuto in famiglia."** 🏁
